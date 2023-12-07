@@ -5,5 +5,5 @@ mod day4;
 mod day5;
 
 fn main() {
-    day5::solve();
+    day3::solve();
 }
